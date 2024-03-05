@@ -1,5 +1,5 @@
-// @ts-check
+// @ts-nocheck
 
-import half from './src/half.js';
+import higherOrderFunctions from './src/higher-order-functions.js';
 
-export default half;
+export default higherOrderFunctions;
